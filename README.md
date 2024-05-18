@@ -1,16 +1,100 @@
-### Hi there 👋
+![Header](https://raw.githubusercontent.com/tanmay250501/tanmay250501/main/header.png)
 
-<!--
-**tanmay250501/tanmay250501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Tanmay K. Sawwalakhe! 👋
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="50">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Welcome to my GitHub profile! I'm a passionate Front-end Developer with a knack for building interactive and dynamic web applications. I love coding and constantly learning new technologies to improve my skills.
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="50">
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay250501&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay250501" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🔭 I’m currently working on **[Your Current Project](https://github.com/tanmay250501/your-current-project)**
+
+- 🌱 I’m currently learning **React Js and Angular**
+
+- 👨‍💻 All of my projects are available at [https://github.com/tanmay250501](https://github.com/tanmay250501)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Angular, Java**
+
+- 📫 How to reach me **your-email@example.com**
+
+- 📄 Know about my experiences [Resume](https://github.com/tanmay250501/resume.pdf)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="your-linkedin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/your-stackoverflow" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" alt="your-stackoverflow" height="30" width="40" /></a>
+<a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/your-youtube" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" alt="your-youtube" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/![Header](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+
+
+## 🚀 About Me
+
+- 🌍 Maharashtra, India
+- 💻 Front-end Developer
+- 🎓 Always learning and growing
+
+## 🛠️ Skills
+
+- **Languages**: HTML, CSS, JavaScript, Java
+- **Frameworks**: React.js, Angular
+- **Tools**: Git, GitHub, VS Code
+
+## 🌟 Projects
+
+Here are some of my pinned projects:
+
+- [DOM_in_JS](https://github.com/tanmay250501/DOM_in_JS) - Learning DOM Manipulation
+- [React-Project](https://github.com/tanmay250501/React-Project) - Developing projects while learning React
+- [Angular_CRUD](https://github.com/tanmay250501/Angular_CRUD) - CRUD operations with Angular
+- [Angular_ng-template](https://github.com/tanmay250501/Angular_ng-template) - Using Angular template
+- [Angular_Registration_Form](https://github.com/tanmay250501/Angular_Registration_Form) - Two-way data binding in Angular
+
+## 📫 How to reach me
+
+- **LinkedIn**: [Tanmay Sawwalakhe](https://www.linkedin.com/in/tanmay-sawwalakhe)
+- **Twitter**: [@TaninsaneG](https://twitter.com/TaninsaneG)
+- **Email**: tanmaysawwalakhe2@gmail.com
+
+![Coding](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+
+## ⚡ Fun Facts
+
+- I'm always up for a coding challenge!
+- I love exploring new technologies and frameworks.
+- When I'm not coding, you can find me playing video games or reading tech blogs.
+
+Feel free to check out my repositories and get in touch if you want to collaborate on an exciting project! 😊
+
+![Footer](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angular" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay250501&show_icons=true&locale=en&layout=compact" alt="tanmay250501" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay250501&show_icons=true&locale=en" alt="tanmay250501" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay250501&" alt="tanmay250501" /></p>
+
+![Footer](https://raw.githubusercontent.com/tanmay250501/tanmay250501/main/footer.png)

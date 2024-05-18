@@ -26,9 +26,9 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Angular, Java**
 
-- 📫 How to reach me **your-email@example.com**
+- 📫 How to reach me **tanmaysawwalakhe2@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/tanmay250501/resume.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gCi31POSy8g8Jgu9pl-AS7NaApsS62Pi/view?usp=drivesdk)
 
 
 

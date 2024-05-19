@@ -10,6 +10,7 @@
   Welcome to my GitHub profile! I'm a passionate Front-end Developer with a knack for building interactive and dynamic web applications. I love coding and constantly learning new technologies to improve my skills.
 </p>
 
+
 <p align="center">
   <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="50">
 </p>
@@ -99,10 +100,10 @@ Feel free to check out my repositories and get in touch if you want to collabora
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay250501&show_icons=true&locale=en&layout=compact" alt="tanmay250501" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay250501&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tanmay250501" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay250501&show_icons=true&locale=en" alt="tanmay250501" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay250501&show_icons=true&locale=en&theme=tokyonight" alt="tanmay250501" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay250501&" alt="tanmay250501" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay250501&theme=tokyonight" alt="tanmay250501" /></p>
 
 ![Footer](https://raw.githubusercontent.com/tanmay250501/tanmay250501/main/footer.png)

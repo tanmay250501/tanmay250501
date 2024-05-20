@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/tanmay250501/tanmay250501/main/header.png)
+
 
 # Hi there, I'm Tanmay K. Sawwalakhe! 👋
 
@@ -103,6 +103,7 @@ Feel free to check out my repositories and get in touch if you want to collabora
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanmay250501&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tanmay250501" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanmay250501&show_icons=true&locale=en&theme=tokyonight" alt="tanmay250501" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay250501&theme=tokyonight" alt="tanmay250501" /></p>
 

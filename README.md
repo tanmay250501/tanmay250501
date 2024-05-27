@@ -93,7 +93,7 @@ Here are some of my pinned projects:
 
 Feel free to check out my repositories and get in touch if you want to collaborate on an exciting project! 😊
 
-![Footer](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angular" width="40" height="40"/> </a> 

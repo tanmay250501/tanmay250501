@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Welcome to my GitHub profile! I'm a passionate Front-end Developer with a knack for building interactive and dynamic web applications. I love coding and constantly learning new technologies to improve my skills.
+  Welcome to my GitHub profile! I'm a passionate Front-End Developer with a knack for building interactive and dynamic web applications. I love coding and constantly learning new technologies to improve my skills.
 </p>
 
 

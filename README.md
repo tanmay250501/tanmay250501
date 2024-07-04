@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **tanmaysawwalakhe2@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1GOwbERTss5BPIl4xVDeuekf9iN8LNcO5/edit?usp=sharing&ouid=100259427948283459770&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ehqKziSn6ahChwT5blSJR8SyYENSzLcf/view?usp=sharing)
 
 
 

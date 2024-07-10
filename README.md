@@ -106,5 +106,3 @@ Feel free to check out my repositories and get in touch if you want to collabora
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmay250501&theme=tokyonight" alt="tanmay250501" /></p>
 
-
-![Footer](https://raw.githubusercontent.com/tanmay250501/tanmay250501/main/footer.png)

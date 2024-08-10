@@ -1,7 +1,7 @@
 
 # Hi there, I'm Tanmay K. Sawwalakhe! 👋
 
-<p align="center">
+<p align="center" >
   <img src="https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif" width="50">
 </p>
 

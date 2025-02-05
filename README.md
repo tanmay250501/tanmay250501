@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **[Currently Working on this Project](https://github.com/tanmay250501/HiredHub)
+- 🔭 I’m currently working on **[Currently Working on this Project]**(https://github.com/tanmay250501/HiredHub)
 - 🌱 I’m currently learning **React Js , Node Js and Express Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/tanmay250501](https://github.com/tanmay250501)
